@@ -1,5 +1,9 @@
 # Day 12 Lab - Mission Answers
 
+> **Student Name:** Bùi Văn Thái  
+> **Student ID:** 2A202600674  
+> **Date:** 12/06/2026
+
 ## Part 1: Localhost vs Production
 
 ### Exercise 1.1: Anti-patterns found
@@ -29,7 +33,7 @@
 ## Part 3: Cloud Deployment
 
 ### Exercise 3.1: Railway deployment
-- URL: `https://[BẠN_ĐIỀN_LINK_RAILWAY_VÀO_ĐÂY]`
+- URL: `https://agent-production-0f55.up.railway.app`
 - Screenshot: Vui lòng xem ảnh trong thư mục `screenshots/`
 
 ## Part 4: API Security
